@@ -274,8 +274,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## 🆘 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/adaptive-claim-verification/issues)
-- **Email**: your.email@example.com
+- **Email**: aparajitas824@gmail.com
 - **Questions**: Open an issue with tag `[question]`
 
 ---
