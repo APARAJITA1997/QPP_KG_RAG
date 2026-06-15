@@ -289,10 +289,3 @@ Built with:
 
 ---
 
-<div align="center">
-
-**Made with ❤️ for scientific claim verification**
-
-[⭐ Star this project if you find it useful!](https://github.com/yourusername/adaptive-claim-verification)
-
-</div>
